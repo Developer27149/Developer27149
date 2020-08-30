@@ -10,27 +10,49 @@
 
 #### 计划...
 
-- 和友人一起开发分布式的云存储项目
-- 读书
-- 研究 Egret 游戏
-- 研究前端技术栈
-- 研究 Rust 开发 CLI
-- 研究 Powershell 和 Bash以及 Linux 技术
+- :fire: 和友人一起开发分布式的云存储项目
+- :book: 读书
+- :video_game: 研究 Egret 游戏
+- :dart: 研究前端技术栈
+- :dart: 研究 Rust 开发 CLI
+- :dart: 研究 Powershell 和 Bash以及 Linux 技术
 
 
 
 #### 最近在...
 
-- :book: 阅读
-  - << JavaScript函数式编程指南 >>
-  - << JavaScript正则表达式迷你书 >>
-- :thinking: 用TS重构我的个人博客
-  - 构建remark插件:支持Markdown博客code行数显示
-  - 文章格式检测CLI
-- :medal_sports: 大鱼板公路杀手
-- 😄 思考人生玩法
-- ⚡ 恢复中...
+- :book:  阅读
+  - JavaScript 函数式编程指南 
+  - JavaScript 正则表达式迷你书 
+  - Rust 官网
+  - powershell迷你书
+- :thinking:  用TS重构我的个人博客
+  - 构建remark插件:支持 Markdown 博客 code 行数显示
+  - 文章格式检测 CLI
+- :medal_sports:  大鱼板公路杀手
+- ⚡  恢复状态并思考人生中...
+
+
+
+#### 看完的书 📚
+
+- [x] 岛上书店
+- [x] Bash 101
+
+
+
+#### 该怎么做?
+
+- 技术群里只谈论技术
+- 不要告诉别人自己打算做什么,而是告诉别人自己做了什么并且拿出实际可见的内容
+- 切记交浅言深
+- 早睡早起
+- 坚持...训练...阅读...学习
+
+
+
 
 
 
 > JUST FOR FUN.:fu: 
+
