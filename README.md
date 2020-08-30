@@ -1,14 +1,36 @@
-### Hi there 👋
+### TO YOU
 
-**youyiqin/youyiqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+我是一个普通的软件工程师,20多年来一直过着苦逼的生活.甚至可以说直到2020年6月,我才能够自己做出选择:"如何生活"...
+
+但你我都明白知易行难的道理,那么到底该如何去做?无论如何,平凡枯燥的人生就像真实的地狱.**我不入地狱,谁爱入睡谁入.**
+
+
+
+#### 计划...
+
+- 和友人一起开发分布式的云存储项目
+- 读书
+- 研究 Egret 游戏
+- 研究前端技术栈
+- 研究 Rust 开发 CLI
+- 研究 Powershell 和 Bash以及 Linux 技术
+
+
+
+#### 最近在...
+
+- :book: 阅读
+  - << JavaScript函数式编程指南 >>
+  - << JavaScript正则表达式迷你书 >>
+- :thinking: 用TS重构我的个人博客
+  - 构建remark插件:支持Markdown博客code行数显示
+  - 文章格式检测CLI
+- :medal_sports: 大鱼板公路杀手
+- 😄 思考人生玩法
+- ⚡ 恢复中...
+
+
+
+> JUST FOR FUN.:fu: 
