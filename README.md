@@ -26,10 +26,16 @@
   - Rust Command Line Programming.
   - powershell迷你书
 - :thinking:  用TS重构我的个人博客
-  - 构建remark插件:支持 Markdown 博客 code 行数显示
+  - 设计新的界面和数据展示
   - 文章格式检测 CLI
 - :medal_sports:  大鱼板公路杀手
 - ⚡  恢复状态并思考人生中...
+
+
+
+#### 后续...
+
+- 构建remark插件:支持 Markdown 博客 code 行数显示
 
 
 
