@@ -23,8 +23,7 @@
 
 - :book:  阅读
   - JavaScript 函数式编程指南 
-  - JavaScript 正则表达式迷你书 
-  - Rust 官网
+  - Rust Command Line Programming.
   - powershell迷你书
 - :thinking:  用TS重构我的个人博客
   - 构建remark插件:支持 Markdown 博客 code 行数显示
@@ -36,9 +35,13 @@
 
 #### 看完的书 📚
 
+##### 2020 年
+
 - [x] 岛上书店
 - [x] Bash 101
 - [x] 程序员如何优雅的挣零花钱 
+
+- [x] JavaScript 正则表达式迷你书 
 
 
 
