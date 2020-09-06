@@ -8,10 +8,18 @@
 
 
 
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gih2wp1pypj31gv0lidov.jpg)
+
+
+
+每天给自己其他乱七八糟方面的技术兴趣只有一个小时.其余时间专注于前端开发.
+
+
+
 #### 计划...
 
 - :fire: 和友人一起开发分布式的云存储项目
-- :book: 读书
+- :book: 阅读书籍
 - :video_game: 研究 Egret 游戏
 - :dart: 研究前端技术栈
 - :dart: 研究 Rust 开发 CLI
@@ -23,7 +31,6 @@
 
 - :book:  阅读
   - JavaScript 函数式编程指南 
-  - Rust Command Line Programming.
   - powershell迷你书
 - :thinking:  用TS重构我的个人博客
   - 设计新的界面和数据展示
@@ -33,14 +40,37 @@
 
 #### 解决了什么问题?
 
-- [x] 博客页面代码显示区域支持了行数显示!!!
+- [x] 博客页面代码显示区域支持了行数显示!!!做好了自己满意的代码显示区域.
 - [x] 博客可选框样式跟 typora 同步了!
 
 
 
 #### 后续...
 
-- 构建remark插件:支持 Markdown 博客 code 行数显示
+- [x] 图解HTTP读书
+- [x] DOM知识点回顾-阅读现代JavaScript教程的DOM部分
+- [x] GIT版本控制 - Git小书
+- [x] [javascript-algorithms/README.zh-CN.md at master · trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+- [x] 你不知道的JavaScript全册
+- [x] Npm打包工具详解
+- [x] BEM命名规范
+- [x] Sass和CSS-in-JS
+- [x] 代码构建流程和工具,格式化和规范化.webpack初探
+- [x] BEM命名规范
+- [x] React.js通读文档开发项目
+- [x] Redux和redux-toolkit-rtk
+- [x] Shadow DOM 知识点
+- [x] CSS框架: Chakra UI 以及 bootstrap.css
+- [x] Jest测试:测试所有需要测试的内容
+- [x] Typescript学习
+- [x] 浏览器: storage/websockets/service workers/插件开发(有趣的)
+- [x] 浏览器性能提升和devtools使用
+- [x] SSR: Nextjs项目实践
+- [x] SSR: GraphQL和Apollo/Relay modern
+- [x] React Native 开发移动应用(有用)
+- [x] Electron开发桌面应用(有趣)
+- [x] Web Assembly - 高级
+
 
 
 
@@ -51,9 +81,8 @@
 - [x] 岛上书店
 - [x] Bash 101
 - [x] 程序员如何优雅的挣零花钱 
-
 - [x] JavaScript 正则表达式迷你书 
-
+- [x] Webpack3详解
 
 
 #### 该怎么做?
