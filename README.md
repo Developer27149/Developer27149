@@ -47,7 +47,6 @@
 
 #### 后续...
 
-- [x] 图解HTTP读书
 - [x] DOM知识点回顾-阅读现代JavaScript教程的DOM部分
 - [x] GIT版本控制 - Git小书
 - [x] [javascript-algorithms/README.zh-CN.md at master · trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
@@ -83,6 +82,7 @@
 - [x] 程序员如何优雅的挣零花钱 
 - [x] JavaScript 正则表达式迷你书 
 - [x] Webpack3详解
+- [x] 图解HTTP读书
 
 
 #### 该怎么做?
