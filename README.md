@@ -82,8 +82,8 @@
 - [x] 程序员如何优雅的挣零花钱 
 - [x] JavaScript 正则表达式迷你书 
 - [x] Webpack3详解
-- [x] 图解HTTP读书
-
+- [x] 图解HTTP
+- [x] JavaScript函数式编程指南
 
 #### 该怎么做?
 
