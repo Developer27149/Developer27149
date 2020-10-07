@@ -1,3 +1,5 @@
+[![youyiqin's github stats](https://github-readme-stats.vercel.app/api?username=youyiqin)](https://github.com/anuraghazra/github-readme-stats)
+
 ### TO YOU
 
 
@@ -22,7 +24,6 @@
 - :book: 阅读书籍
 - :video_game: 研究 Egret 游戏
 - :dart: 研究前端技术栈
-- :dart: 研究 Rust 开发 CLI
 - :dart: 研究 Powershell 和 Bash以及 Linux 技术
 
 
