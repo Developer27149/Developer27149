@@ -1,28 +1,14 @@
-[![youyiqin's github stats](https://github-readme-stats.vercel.app/api?username=youyiqin)](https://github.com/anuraghazra/github-readme-stats)
-
-### TO YOU
+[![youyiqin's github stats](https://github-readme-stats.vercel.app/api?username=youyiqin)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youyiqin)
 
 
 
 我是一个普通的软件工程师,20多年来一直过着苦逼的生活.甚至可以说直到2020年6月,我才能够自己做出选择:"如何生活"...
 
-但你我都明白知易行难的道理,那么到底该如何去做?无论如何,平凡枯燥的人生就像真实的地狱.**我不入地狱,谁爱入谁入.**
-
-
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gih2wp1pypj31gv0lidov.jpg)
-
-
-
-每天给自己其他乱七八糟方面的技术兴趣只有一个小时.其余时间专注于前端开发.
-
 
 
 #### 计划...
 
-- :fire: 和友人一起开发分布式的云存储项目
 - :book: 阅读书籍
-- :video_game: 研究 Egret 游戏
 - :dart: 研究前端技术栈
 - :dart: 研究 Powershell 和 Bash以及 Linux 技术
 
@@ -33,16 +19,7 @@
 - :book:  阅读
   - JavaScript 函数式编程指南 
   - powershell迷你书
-- :thinking:  用TS重构我的个人博客
-  - 设计新的界面和数据展示
-  - 文章格式检测 CLI
-- :medal_sports:  大鱼板公路杀手
 - ⚡  恢复状态并思考人生中...
-
-#### 解决了什么问题?
-
-- [x] 博客页面代码显示区域支持了行数显示!!!做好了自己满意的代码显示区域.
-- [x] 博客可选框样式跟 typora 同步了!
 
 
 
@@ -93,11 +70,3 @@
 - 切记交浅言深
 - 早睡早起
 - 坚持...训练...阅读...学习
-
-
-
-
-
-
-> JUST FOR FUN.:fu: 
-
