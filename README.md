@@ -16,6 +16,10 @@
 
 ![image-20210530205400167](https://i.loli.net/2021/05/30/k6TpZ7bESlF42J5.png)
 
+或者，联系我
+
+![1671622731663_.pic](https://i.loli.net/2021/06/03/CpA27aHPIwg4DeM.jpg)
+
 2021 年，我在......
 
 ![](https://i.loli.net/2021/05/30/LgPC8YXVjDQpSAm.png)
