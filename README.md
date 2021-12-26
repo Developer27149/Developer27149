@@ -1,6 +1,6 @@
 
+In 2021, I made 949 contributions and modified 77,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/youyiqin
 
-![](https://media1.giphy.com/media/iIqmM5tTjmpOB9mpbn/200w.webp?cid=ecf05e47j62a6ftsb17zcwlau2pu0xbnz9cpu86giut7vtgm&rid=200w.webp&ct=g)
 
 ## First
 
