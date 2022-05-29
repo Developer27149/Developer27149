@@ -21,6 +21,8 @@ Rookie Developer
 - Chrome extension: Download helper
 - React UI Library: LanUI
 - Learning English
+- WeChat articles
+- Weekly Share
 
 
 ### Skills
