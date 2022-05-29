@@ -13,6 +13,15 @@ Rookie Developer
 * 🧠  I'm learning TypeScript
 * ⚡  YOLO
 
+### TODO LIST
+
+- Figma tutorial
+- LanSoft 
+- Done - electron app
+- Chrome extension: Download helper
+- React UI Library: LanUI
+- Learning English
+
 
 ### Skills
 
