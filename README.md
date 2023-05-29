@@ -9,17 +9,15 @@ Rookie Developer
 * 🌍  I'm based in China
 * 🖥️  See my portfolio at [博客](https://blog-dev27149.vercel.app/)
 * ✉️  You can contact me at [rivenqinyy@gmail.com](mailto:rivenqinyy@gmail.com)
-* 🚀  I'm currently working on [Shiheng Tech](https://www.shihengtech.com/)
+* 🚀  I have resigned.
 * 🧠  I'm learning TypeScript
 * ⚡  YOLO
 
 ### TODO LIST
 
-- Figma tutorial
 - LanSoft 
 - Done - electron app
 - Chrome extension: Download helper
-- React UI Library: LanUI
 - Learning English
 - WeChat articles
 - Weekly Share
