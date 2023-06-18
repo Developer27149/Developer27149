@@ -11,16 +11,15 @@ Rookie Developer
 * ✉️  You can contact me at [rivenqinyy@gmail.com](mailto:rivenqinyy@gmail.com)
 * 🚀  I have resigned.
 * 🧠  I'm learning TypeScript
-* ⚡  YOLO
+* ⚡  Just for fun.
 
 ### TODO LIST
 
-- LanSoft 
-- Done - electron app
-- Chrome extension: Download helper
+- Learning Rust to build my backend API system 
+- Find a remote job...
+- Chrome extension: Download helper (require a backend api)
 - Learning English
-- WeChat articles
-- Weekly Share
+- WeChat articles publish...
 
 
 ### Skills
